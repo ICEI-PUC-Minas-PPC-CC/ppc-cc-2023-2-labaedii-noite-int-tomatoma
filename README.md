@@ -6,9 +6,9 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
+- Felipe Avalon
+- Caio Nassar
+- Gustavo Estevam
 - Mark Zuckerberg
 
 # Documentação
